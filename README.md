@@ -51,6 +51,8 @@ O Google Sheets não é uma ferramenta muito complexa de se trabalhar, principal
 
 ## Limpeza e Manipulação de Dados Detalhada
 
+A planilha do google sheets com todos os cálculos e o web scraping poder ser vista [AQUI](https://docs.google.com/spreadsheets/d/1EffNqHX9EsTyjyabqJLP4tlHtx-0SFDcv5J8iYR7KK8/edit?usp=sharing)
+
 #### Gross (Faturamento Bruto)
 
 Alguns dados de “Gross” (bilheteria) vieram em um formato numérico errado. Os milhares são divididos por vírgula, como num padrão americano, mas alguns dos valores tinham 1 ou dois números no ultimo conjunto de milhares, como em “55,24” e “600,2”, analisando alguns casos específicos percebi que em algum momento na extração original foram perdidos zeros no final, por isso nesses casos eu apenas corrigi os valores. Assim, “55,24” virou “55,240” e “600,2” virou “600,200”. 
