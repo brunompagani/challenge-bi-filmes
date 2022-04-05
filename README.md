@@ -14,7 +14,7 @@ Limpeza de dados | ⭐️ ⭐️
 Transformação de Dados | ⭐️ 
 Análise de Dados | ⭐️ 
 
-
+![picture alt](https://github.com/brunompagani/challenge-bi-filmes/blob/ed49bba3019948a2c7af3ab62c31e9bd2f32cc50/Recursos/diagrama.png)
 
 ## Resumo
 
@@ -30,7 +30,7 @@ A base foi fornecida pela própria empresa, tratada e transformada para facilita
 
 #### Web Scraping
 
-Para o cálculo do faturamento ajustado pela inflação foi realizado um web scraping do site do U.S. BUREAU OF LABOR STATISTICS
+Para o cálculo do faturamento ajustado pela inflação foi realizado um web scraping do site do [U.S. BUREAU OF LABOR STATISTICS](https://www.bls.gov/)
 
 #### Principais Vieses da Base
 
@@ -82,4 +82,6 @@ A Coluna que descreve diversos tipos de classificações indicativas foi usada p
 #### Stars (Estrelas)
 
 A base de dados trazia as 4 principais estrelas (atores) de cada filme, cada um em uma coluna, por isso eu criei uma novo tabela em formato longo, como eu fiz com a tabela de gêneros.
+
+![picture alt](https://github.com/brunompagani/challenge-bi-filmes/blob/a1ffebc19c8c3c3969ee1953bc83b4f63c4d3d8a/Recursos/pagina_de_diretores.png "Página de diretores")
 
