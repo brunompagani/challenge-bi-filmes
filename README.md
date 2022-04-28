@@ -1,6 +1,6 @@
 # Challenge de BI - Semana 1 (Filmes)
 
-## ACESSE O DASHBOARD [AQUI](https://datastudio.google.com/reporting/774c7382-3039-44a9-9090-cc8d733a175c/page/p_39txjruktc "Projeto Alura Films")
+## ACESSE O DASHBOARD [AQUI](https://datastudio.google.com/reporting/774c7382-3039-44a9-9090-cc8d733a175c/page/RzMpC "Projeto Alura Films")
 
 ## Habilidades Demonstradas
 
